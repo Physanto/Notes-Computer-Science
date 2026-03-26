@@ -35,26 +35,70 @@ Estamos listos para poder crear nuestras bases de datos.
 ## Creación de Bases de Datos
 
 
-> [!PSEUDOCODIGO]
-> CREATE DATABASE nombre_basededatos;
->
+### Creando una base de datos.
 
-- Para la creación de una base de datos usamos la siguiente sentencia
+> [!PSEUDOCODIGO]
+> CREATE DATABASE nombre;
+> 
+> #CREATE: palabra reservada.
+> #DATABASE: palabra reservada
+> #nombre: es el nombre que se le da a la base de datos que se quiere crear, se recomienda usar la convención ==snake_case o PascalCase==, por ejemplo: Estudiante, detalle_factura.
+
+- Ejemplo:
 ```mysql
 CREATE DATABASE supermercado;
 ```
 
-- Mostrar todas las bases de datos creadas
+### Mostrar las bases de datos creadas.
+
+> [!pseudocodigo]
+> SHOW DATABASES;
+> 
+> #SHOW: palabra reservada.
+> #DATABASES: palabra reservada
+
+- Ejemplo:
 ```mysql
 SHOW DATABASES;
 ```
 
-- Iniciando bases de datos
+![[Pasted image 20260326075755.png]]
+
+Como podemos observar nos aparece todas las bases de datos que tenemos creadas.
+
+### Iniciando la base de datos.
+
+> [!pseudocodigo]
+> USE nombre;
+> 
+> #USE: palabra reservada.
+> #nombre: representa el nombre de la base de datos que queremos usar.
+
+- Ejemplo:
 ```mysql
 USE supermercado;
 ```
 
-- Creando tablas
+![[Pasted image 20260326080101.png]]
+
+Este mensaje nos indica que la base de datos ya la estamos usando.
+
+### Creando tablas
+
+> [!pseudocodigo]
+> CREATE TABLE nombre (
+> nombre_columna1 TIPO_DATO RESTRICCION
+> );
+> 
+> #CREATE: palabra reservada.
+> #TABLE: palabra reservada.
+> #nombre: nombre de la tabla que se le va a dar.
+> #nombre_columna1: el nombre que se le va a dar a la columna
+> #TIPO_DATO; Es el tipo de dato que se le va a dar a ese campo. Ej: INT, VARCHAR, DECIMAL.
+> #RESTRICCION: Es la restriccion que se le va a dar a ese campo. Ej: NOT NULL
+
+- Ejemplo:
+
 ```mysql
 CREATE TABLE producto(
 	id_producto INT NOT NULL,
@@ -63,3 +107,28 @@ CREATE TABLE producto(
 	precio DECIMAL(10,2) NOT NULL
 );
 ```
+
+Como podemos notar el tipo de dato **VARCHAR(cant)** tiene un argumento este representa la cantidad de caracteres que puede almacenar ese campo.
+
+Al igual que el tipo de dato **DECIMAL(p,s)** tiene argumentos, la p representa la precisión, es decir la cantidad de dígitos en total (incluyendo los decimales)y la s representa la cantidad de dígitos a la derecha del punto decimal.
+
+
+### Mostrar estructura de la tabla
+
+> [!pseudocodigo]
+> DESCRIBE nombre;
+> 
+> #DESCRIBE: palabra reservada
+> #nombre: nombre de la tabla que se quiere mostrar.
+
+- Ejemplo:
+
+```mysql
+DESCRIBE producto;
+```
+
+![[Pasted image 20260326085957.png]]
+
+
+### Mostrar todos los datos de una tabla
+
