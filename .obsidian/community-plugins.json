@@ -1,5 +1,7 @@
 [
   "obsidian-vimrc-support",
   "code-styler",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "obsidian-pandoc"
 ]
