@@ -7,7 +7,7 @@ Se encarga de realizar diferentes operaciones a los datos que se encuentran en l
 - ==INSERT==: Se utiliza para la inserción de datos.
 - ==SElECT==: Se utiliza para buscar registros.
 - ==UPDATE==: se usa para actualizar un registro especifico dependiendo su condición.
-- ==DELETE==: Se usa para eliminar un registro dependiendo su condicion.
+- ==DELETE==: Se usa para eliminar un registro dependiendo su condición.
 
 ```mysql
 INSERT INTO nombre_tabla
