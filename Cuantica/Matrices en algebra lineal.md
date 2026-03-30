@@ -65,11 +65,30 @@ $$\large U^* =
 
 ## Matriz unitaria
 
-Una matriz unitaria es una matriz que al multiplicarse por su adjunta da la matriz identidad, $\large U^†U = I$
+Una matriz unitaria es una matriz que al multiplicarse por su adjunta da la matriz identidad, $\large U^\dagger U = I$
 
+> [!NOTE]
+>- Una matriz unitaria es aquella que al multiplicarse por un vector conserva la longitud de este.
 
+### Longitud de un vector
 
+La longitud de un vector $\large |\vec{v}|$ también conocida como norma o magnitud es básicamente la distancia entre el punto inicial y final. en palabras mas simples representa cuanto mide el vector.
+
+Para calcular la longitud usamos
+
+$$ \large |\vec{v}| = \sqrt{{v_x}^2 + {v_y}^2}$$
+donde $\large v_x$ y $\large v_y$ representan las componentes del vector respectivamente
+
+- Ejemplo: calcular la longitud del siguiente vector $\large \vec{v} = (3,2)$
+
+	representación gráfica del vector
+	
+	![[Pasted image 20260329234859.png|400]]
+
+	Para calcular la longitud aplicamos la formula
+	$$\large |\vec{v}| = \sqrt{3^2 + 2^2}$$
+	$$\large |\vec{v}| = \sqrt{9 + 4} = 3.60$$
 ## Normalizar matrices
 
-Normalizar matrices significa ajustar (escalar) la matriz para que tenga norma 1, esto se hace multiplicandolas por un numero para que sus columnas o filas tengan longitud 1.
+Normalizar matrices significa ajustar (escalar) la matriz para que tenga norma 1, esto se hace multiplicándolas por un numero para que sus columnas o filas tengan longitud 1.
 

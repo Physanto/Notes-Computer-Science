@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "65f827bc13b7fa97",
+        "id": "3790dd99638c9ca1",
         "type": "tabs",
         "children": [
           {
-            "id": "cae5068e7dd84dc9",
+            "id": "7c7c439c423211c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investigacion de Operaciones/Método Simplex.md",
+                "file": "Cuantica/Compuertas generales de un solo cubit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Método Simplex"
+              "title": "Compuertas generales de un solo cubit"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "12e22c21cd8c1b63",
@@ -181,40 +181,51 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "focus-time:Open Focus Time Dashboard": false
     }
   },
-  "active": "cae5068e7dd84dc9",
+  "active": "7c7c439c423211c5",
   "lastOpenFiles": [
+    "Cuantica/Matrices en algebra lineal.md",
+    "Bases de Datos/Sentencias SQL.md",
+    "Excalidraw/circuito cuantico.md",
+    "Cuantica/Medición de un Cubit.md",
+    "Cuantica/Computación Cuántica.md",
+    "Cuantica/Amplitudes.md",
+    "Cuantica/Compuertas generales de un solo cubit.md",
+    "Pasted image 20260329234859.png",
+    "Excalidraw/Drawing 2026-03-29 23.39.30.excalidraw.md",
+    "Excalidraw/vector.md",
+    "Cuantica/Que significa que una matriz se unitaria.md",
+    "Sin título.base",
+    "Sin título 2.base",
+    "Sin título 1.base",
+    "Pasted image 20260329212823.png",
+    "Excalidraw/Drawing 2026-03-16 19.55.45.excalidraw 1.md",
+    "Excalidraw/Sin título.canvas",
+    "Pasted image 20260329212419.png",
+    "Cuantica/Puerta de Hadamard.md",
+    "Bases de Datos/Pasted image 20260326085957.png",
+    "Bases de Datos/Sin título.md",
+    "Cuantica",
     "Investigacion de Operaciones/Método Simplex.md",
     "Investigacion de Operaciones",
-    "Bases de Datos/Sentencias SQL.md",
     "Bases de Datos/DML.md",
-    "Pasted image 20260326085957.png",
     "Bases de Datos/Pasted image 20260326080101.png",
     "Bases de Datos/Pasted image 20260326075755.png",
     "Bases de Datos/DDL.md",
-    "Bases de Datos/Sin título.md",
     "Bases de Datos/Pasted image 20260325223910.png",
     "Bases de Datos/Pasted image 20260325222831.png",
     "DDL.pdf",
     "Bases de Datos/SQL.md",
-    "Sin título 1.base",
-    "Sin título.base",
     "Referencias.md",
     "Bases de Datos",
     "Bases de Datos",
     "SO/Configuración de red.md",
     "SO",
-    "Medición de un Cubit.md",
-    "Computación Cuántica.md",
     "README.md",
-    "Matrices en algebra lineal.md",
-    "Excalidraw/Drawing 2026-03-16 19.55.45.excalidraw.md",
-    "Compuertas generales de un solo cubit.md",
-    "Amplitudes.md",
     "Excalidraw",
-    "Puerta de Hadamard.md",
     "Sin título 1.md"
   ]
 }

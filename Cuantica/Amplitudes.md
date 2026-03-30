@@ -2,4 +2,4 @@ Las amplitudes en computación cuántica son valores complejos que se encuentran
 
 >[!IMPORTANT]
 >$\large \ | \alpha|^2 + | \beta |^2 = 1$
->- La suma de las amplitudes debe ser igual a 1.
+>- La suma de las amplitudes debe ser igual a 1. Esto es por la normalizacion de vectores.
