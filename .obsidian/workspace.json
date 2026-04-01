@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3790dd99638c9ca1",
+        "id": "f8cfb71214cb7f97",
         "type": "tabs",
         "children": [
           {
-            "id": "7c7c439c423211c5",
+            "id": "00624adbc9a6506a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cuantica/Compuertas generales de un solo cubit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Compuertas generales de un solo cubit"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -185,30 +181,32 @@
       "focus-time:Open Focus Time Dashboard": false
     }
   },
-  "active": "7c7c439c423211c5",
+  "active": "00624adbc9a6506a",
   "lastOpenFiles": [
+    "Cuantica/Pasted image 20260329234859.png",
+    "Cuantica/Pasted image 20260329212823.png",
+    "Cuantica/Pasted image 20260329212419.png",
     "Cuantica/Matrices en algebra lineal.md",
-    "Bases de Datos/Sentencias SQL.md",
-    "Excalidraw/circuito cuantico.md",
+    "Cuantica/Puerta de Hadamard.md",
+    "Cuantica/sin.md",
     "Cuantica/Medición de un Cubit.md",
     "Cuantica/Computación Cuántica.md",
-    "Cuantica/Amplitudes.md",
     "Cuantica/Compuertas generales de un solo cubit.md",
-    "Pasted image 20260329234859.png",
+    "Cuantica/Amplitudes.md",
+    "Cuantica",
+    "Cuantica/Sin título.md",
+    "Bases de Datos/Sentencias SQL.md",
+    "Excalidraw/circuito cuantico.md",
     "Excalidraw/Drawing 2026-03-29 23.39.30.excalidraw.md",
     "Excalidraw/vector.md",
     "Cuantica/Que significa que una matriz se unitaria.md",
     "Sin título.base",
     "Sin título 2.base",
     "Sin título 1.base",
-    "Pasted image 20260329212823.png",
     "Excalidraw/Drawing 2026-03-16 19.55.45.excalidraw 1.md",
     "Excalidraw/Sin título.canvas",
-    "Pasted image 20260329212419.png",
-    "Cuantica/Puerta de Hadamard.md",
     "Bases de Datos/Pasted image 20260326085957.png",
     "Bases de Datos/Sin título.md",
-    "Cuantica",
     "Investigacion de Operaciones/Método Simplex.md",
     "Investigacion de Operaciones",
     "Bases de Datos/DML.md",

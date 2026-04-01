@@ -7,22 +7,23 @@ Una puerta lógica general de un solo cubit funciona de manera similar, en parti
 > - Como podemos comprender intuitivamente que significa que una matriz sea unitaria?
 > - Supongamos que disponemos de un dispositivo capaz de determinar con exactitud el estado de un cubit. como podria utilizarse dicho dispositivo como parte de un sistema para comunicar informacion clasica infinita, utilizando un solo cubit?
 
-## Comprobando que las compuertas X y H en su forma matricial son unitarias $\large U^{\dagger}U = I$
+## Comprobando que las compuertas X y H en su forma matricial son unitarias $\large U^{\dagger}U = I $
 
 Primero vamos a ponerla en forma matricial
-$$\large H = \left(
-\frac{1}{\sqrt{2}}
+
+$$\large H = 
+\left(\frac{1}{\sqrt{2}}
 \begin{bmatrix}
 1 & 1 \\
 1 & -1
-\end{bmatrix}
-\right)
+\end{bmatrix} \right)
 $$
 
 ahora calculamos su [[Matrices en algebra lineal#Matriz transpuesta compleja o matriz adjunta|transpuesta compleja]], recordemos que $\large U^\dagger:=(U^T)^*$
 
-$$\large H^{\dagger} = \left( \left(
-\frac{1}{\sqrt{2}}
+$$
+\large 
+H^{\dagger} = \left( \left(\frac{1}{\sqrt{2}}
 \begin{bmatrix}
 1 & 1 \\
 1 & -1
@@ -30,18 +31,22 @@ $$\large H^{\dagger} = \left( \left(
 \right) ^T
 \right) ^*
 $$
+
 resolviendo tenemos
-$$ \large H^{\dagger} = \left(
-\frac{1}{\sqrt2}
+
+$$ 
+\large H^{\dagger} = \left(\frac{1}{\sqrt2}
 \begin{bmatrix}
 1 & 1 \\
 1 & -1
 \end{bmatrix}
-\right)$$
+\right)
+$$
+
 como ya resolvimos la transpuesta compleja ahora vamos a multiplicarla por la matriz original.
-$$\large H^{\dagger} \cdot H =
-\left(
-\frac{1}{\sqrt{2}}
+
+$$
+\large H^{\dagger} \cdot H = \left(\frac{1}{\sqrt{2}}
 \begin{bmatrix}
 1 & 1 \\
 1 & -1
@@ -56,7 +61,9 @@ $$\large H^{\dagger} \cdot H =
 \end{bmatrix}
 \right)
 $$
-$$ \large = \begin {bmatrix}
+
+$$ 
+\large = \begin {bmatrix}
 1 & 1 \\
 1 & -1
 \end{bmatrix}
@@ -70,14 +77,24 @@ $$ \large = \begin {bmatrix}
 0 & 2
 \end{bmatrix} 
 $$
-$$\large = \frac{1}{\sqrt2} \cdot \frac{1}{\sqrt2} = \frac{1}{(\sqrt2)^2} = \frac {1}{2} $$
+
+$$
+\large = \frac{1}{\sqrt2} \cdot \frac{1}{\sqrt2} = \frac{1}{(\sqrt2)^2} = \frac {1}{2} 
+$$
+
 Uniendo las partes nos queda
-$$ \large \frac{1}{2} \cdot \begin {bmatrix} 2 & 0 \\ 0 & 2 \end {bmatrix}$$
+
+$$ 
+\large \frac{1}{2} \cdot \begin {bmatrix} 2 & 0 \\ 0 & 2 \end {bmatrix}
+$$
 por ultimo resolvemos esta operación que consta de un escalar por una matriz y nos da
-$$\large \begin{bmatrix}
+$$
+\large \begin{bmatrix}
 1 & 0 \\
 0 & 1
-\end{bmatrix} = I$$
+\end{bmatrix} = I
+$$
+
 entonces podemos decir que la puerta lógica cuántica $\large H$ en su representación matricial es una matriz unitaria $\large H^\dagger \cdot H = I$
 
 

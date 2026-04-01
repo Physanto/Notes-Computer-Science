@@ -3,14 +3,14 @@
     "Cuantica/Compuertas generales de un solo cubit.md": {
       "fileId": "1774838831863",
       "filePath": "Cuantica/Compuertas generales de un solo cubit.md",
-      "duration": 3042000,
-      "openCount": 14
+      "duration": 3246000,
+      "openCount": 18
     },
     "Cuantica/Matrices en algebra lineal.md": {
       "fileId": "1774841819862",
       "filePath": "Cuantica/Matrices en algebra lineal.md",
-      "duration": 1368000,
-      "openCount": 19
+      "duration": 1482000,
+      "openCount": 23
     },
     "Sin título 1.base": {
       "fileId": "1774844519861",
@@ -52,19 +52,19 @@
       "fileId": "1774846745865",
       "filePath": "Cuantica/Computación Cuántica.md",
       "duration": 78000,
-      "openCount": 4
+      "openCount": 5
     },
     "Cuantica/Medición de un Cubit.md": {
       "fileId": "1774846841861",
       "filePath": "Cuantica/Medición de un Cubit.md",
       "duration": 30000,
-      "openCount": 4
+      "openCount": 5
     },
     "Cuantica/Amplitudes.md": {
       "fileId": "1774846846432",
       "filePath": "Cuantica/Amplitudes.md",
-      "duration": 0,
-      "openCount": 1
+      "duration": 72000,
+      "openCount": 3
     },
     "Excalidraw/circuito cuantico.md": {
       "fileId": "1774846889861",
@@ -77,6 +77,42 @@
       "filePath": "Bases de Datos/Sentencias SQL.md",
       "duration": 6000,
       "openCount": 2
+    },
+    "Cuantica/Sin título.md": {
+      "fileId": "1775019889299",
+      "filePath": "Cuantica/Sin título.md",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Cuantica/Puerta de Hadamard.md": {
+      "fileId": "1775021142008",
+      "filePath": "Cuantica/Puerta de Hadamard.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Cuantica/sin.md": {
+      "fileId": "1775021144289",
+      "filePath": "Cuantica/sin.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Cuantica/Pasted image 20260329234859.png": {
+      "fileId": "1775021242201",
+      "filePath": "Cuantica/Pasted image 20260329234859.png",
+      "duration": 12000,
+      "openCount": 2
+    },
+    "Cuantica/Pasted image 20260329212419.png": {
+      "fileId": "1775021240845",
+      "filePath": "Cuantica/Pasted image 20260329212419.png",
+      "duration": 0,
+      "openCount": 1
+    },
+    "Cuantica/Pasted image 20260329212823.png": {
+      "fileId": "1775021241604",
+      "filePath": "Cuantica/Pasted image 20260329212823.png",
+      "duration": 0,
+      "openCount": 1
     }
   }
 }
