@@ -11,10 +11,14 @@
             "id": "14d991dbae71ae20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ing Software 2/Patrones de Arquitectura/Monolito.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Monolito"
             }
           }
         ]
@@ -182,6 +186,21 @@
   },
   "active": "14d991dbae71ae20",
   "lastOpenFiles": [
+    "Patrones de diseno.md",
+    "Ing Software 2/Patrones de Arquitectura/Monolito.md",
+    "Ing Software 2/Patrones de Arquitectura",
+    "Ing Software 2",
+    "Cuantica/Puerta de Hadamard.md",
+    "Cuantica/Pasted image 20260329234859.png",
+    "Cuantica/Pasted image 20260329212823.png",
+    "Cuantica/Pasted image 20260329212419.png",
+    "Cuantica/Medición de un Cubit.md",
+    "Cuantica/Matrices en algebra lineal.md",
+    "Cuantica/Computación Cuántica.md",
+    "Cuantica/Compuertas generales de un solo cubit.md",
+    "Cuantica/Amplitudes.md",
+    "Cuantica",
+    "Bases de Datos/Pasted image 20260326085957.png",
     "Investigacion de Operaciones/Método Simplex.md",
     "Investigacion de Operaciones",
     "Bases de Datos/Sentencias SQL.md",
@@ -209,7 +228,6 @@
     "Excalidraw/Drawing 2026-03-16 19.55.45.excalidraw.md",
     "Compuertas generales de un solo cubit.md",
     "Amplitudes.md",
-    "Excalidraw",
     "Puerta de Hadamard.md",
     "Sin título 1.md"
   ]
