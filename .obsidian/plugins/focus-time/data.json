@@ -117,7 +117,7 @@
     "Ing Software 2/Patrones de Arquitectura/Monolito.md": {
       "fileId": "1775440051404",
       "filePath": "Ing Software 2/Patrones de Arquitectura/Monolito.md",
-      "duration": 240000,
+      "duration": 252000,
       "openCount": 4
     },
     "Patrones de diseno.md": {
@@ -125,6 +125,12 @@
       "filePath": "Patrones de diseno.md",
       "duration": 102000,
       "openCount": 1
+    },
+    "Ing Software 2/Act-ing-softw.md": {
+      "fileId": "1775489113289",
+      "filePath": "Ing Software 2/Act-ing-softw.md",
+      "duration": 6000,
+      "openCount": 2
     }
   }
 }
