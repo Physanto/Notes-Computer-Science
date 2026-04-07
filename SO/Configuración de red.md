@@ -1,4 +1,3 @@
-	
 # configuración de la red en linux
 
 La configuración de red que se va a realizar esta enfocada para conexiones a red por cable ethernet
