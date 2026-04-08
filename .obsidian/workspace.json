@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ff72a669ad905f13",
         "type": "tabs",
         "children": [
@@ -19,6 +20,19 @@
               },
               "icon": "lucide-file",
               "title": "Monolito"
+=======
+        "id": "618f641b6d17c78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c090ce95a9bffb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+>>>>>>> 13cb55222d9dff5c6c13c4a8ffdb3ba14e84d03e
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "right": {
     "id": "12e22c21cd8c1b63",
@@ -185,12 +199,25 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
+<<<<<<< HEAD
   "active": "bc976715989c10f5",
+=======
+  "active": "85c090ce95a9bffb",
+>>>>>>> 13cb55222d9dff5c6c13c4a8ffdb3ba14e84d03e
   "lastOpenFiles": [
-    "Ing Software 2/Act-ing-softw.md",
-    "Ing Software 2/Patrones de Arquitectura/Monolito.md",
-    "Ing Software 2/Actividad-ing-soft",
+    "Bases de Datos/Pasted image 20260326085957.png",
+    "Bases de Datos/Pasted image 20260326080101.png",
+    "Bases de Datos/Pasted image 20260326075755.png",
+    "Bases de Datos/Pasted image 20260325223910.png",
+    "Bases de Datos/Pasted image 20260325222831.png",
+    "Bases de Datos/Sentencias SQL.md",
+    "Bases de Datos/SQL.md",
+    "SO/Operaciones Básicas en Linux.md",
+    "SO/Configuración de red.md",
     "Patrones de diseno.md",
+    "Ing Software 2/Patrones de Arquitectura/Monolito.md",
+    "Ing Software 2/Act-ing-softw.md",
+    "Ing Software 2/Actividad-ing-soft",
     "Ing Software 2/Patrones de Arquitectura",
     "Ing Software 2",
     "Cuantica/Puerta de Hadamard.md",
@@ -203,34 +230,24 @@
     "Cuantica/Compuertas generales de un solo cubit.md",
     "Cuantica/Amplitudes.md",
     "Cuantica",
-    "Bases de Datos/Pasted image 20260326085957.png",
     "Investigacion de Operaciones/Método Simplex.md",
     "Investigacion de Operaciones",
-    "Bases de Datos/Sentencias SQL.md",
     "Bases de Datos/DML.md",
     "Pasted image 20260326085957.png",
-    "Bases de Datos/Pasted image 20260326080101.png",
-    "Bases de Datos/Pasted image 20260326075755.png",
     "Bases de Datos/DDL.md",
     "Bases de Datos/Sin título.md",
-    "Bases de Datos/Pasted image 20260325223910.png",
-    "Bases de Datos/Pasted image 20260325222831.png",
     "DDL.pdf",
-    "Bases de Datos/SQL.md",
     "Sin título 1.base",
     "Sin título.base",
     "Referencias.md",
     "Bases de Datos",
     "Bases de Datos",
-    "SO/Configuración de red.md",
     "Medición de un Cubit.md",
     "Computación Cuántica.md",
     "README.md",
     "Matrices en algebra lineal.md",
     "Excalidraw/Drawing 2026-03-16 19.55.45.excalidraw.md",
     "Compuertas generales de un solo cubit.md",
-    "Amplitudes.md",
-    "Puerta de Hadamard.md",
-    "Sin título 1.md"
+    "Amplitudes.md"
   ]
 }

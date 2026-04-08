@@ -75,8 +75,8 @@
     "Bases de Datos/Sentencias SQL.md": {
       "fileId": "1774846961858",
       "filePath": "Bases de Datos/Sentencias SQL.md",
-      "duration": 6000,
-      "openCount": 2
+      "duration": 12000,
+      "openCount": 3
     },
     "Cuantica/Sin título.md": {
       "fileId": "1775019889299",
@@ -117,20 +117,76 @@
     "Ing Software 2/Patrones de Arquitectura/Monolito.md": {
       "fileId": "1775440051404",
       "filePath": "Ing Software 2/Patrones de Arquitectura/Monolito.md",
+<<<<<<< HEAD
       "duration": 294000,
+=======
+      "duration": 252000,
+>>>>>>> 13cb55222d9dff5c6c13c4a8ffdb3ba14e84d03e
       "openCount": 5
     },
     "Patrones de diseno.md": {
       "fileId": "1775444416868",
       "filePath": "Patrones de diseno.md",
-      "duration": 102000,
-      "openCount": 1
+      "duration": 108000,
+      "openCount": 2
     },
     "Ing Software 2/Act-ing-softw.md": {
       "fileId": "1775489113289",
       "filePath": "Ing Software 2/Act-ing-softw.md",
       "duration": 6000,
+<<<<<<< HEAD
       "openCount": 3
+=======
+      "openCount": 2
+    },
+    "SO/Configuración de red.md": {
+      "fileId": "1775573885496",
+      "filePath": "SO/Configuración de red.md",
+      "duration": 60000,
+      "openCount": 4
+    },
+    "SO/Operaciones Básicas en Linux.md": {
+      "fileId": "1775573939493",
+      "filePath": "SO/Operaciones Básicas en Linux.md",
+      "duration": 1512000,
+      "openCount": 4
+    },
+    "Bases de Datos/SQL.md": {
+      "fileId": "1775576562073",
+      "filePath": "Bases de Datos/SQL.md",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Bases de Datos/Pasted image 20260326085957.png": {
+      "fileId": "1775576571544",
+      "filePath": "Bases de Datos/Pasted image 20260326085957.png",
+      "duration": 156000,
+      "openCount": 2
+    },
+    "Bases de Datos/Pasted image 20260326080101.png": {
+      "fileId": "1775576572155",
+      "filePath": "Bases de Datos/Pasted image 20260326080101.png",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Bases de Datos/Pasted image 20260325222831.png": {
+      "fileId": "1775576572601",
+      "filePath": "Bases de Datos/Pasted image 20260325222831.png",
+      "duration": 6000,
+      "openCount": 2
+    },
+    "Bases de Datos/Pasted image 20260326075755.png": {
+      "fileId": "1775576573107",
+      "filePath": "Bases de Datos/Pasted image 20260326075755.png",
+      "duration": 0,
+      "openCount": 2
+    },
+    "Bases de Datos/Pasted image 20260325223910.png": {
+      "fileId": "1775576573595",
+      "filePath": "Bases de Datos/Pasted image 20260325223910.png",
+      "duration": 0,
+      "openCount": 2
+>>>>>>> 13cb55222d9dff5c6c13c4a8ffdb3ba14e84d03e
     }
   }
 }
