@@ -1,0 +1,46 @@
+{
+  "callouts": {
+    "custom": [
+      "k",
+      "estructura"
+    ],
+    "settings": {
+      "k": [
+        {
+          "changes": {
+            "icon": "lucide-panel-left"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "16, 15, 46"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 235, 10"
+          }
+        }
+      ],
+      "estructura": [
+        {
+          "changes": {
+            "icon": "stretch-horizontal",
+            "color": "255, 102, 191"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

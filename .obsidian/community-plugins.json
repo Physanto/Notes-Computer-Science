@@ -3,7 +3,12 @@
   "code-styler",
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
-  "obsidian-pandoc",
   "focus-time",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-file-color",
+  "obsidian-pandoc",
+  "templater-obsidian",
+  "obsidian-zotero-desktop-connector",
+  "obsidian-enhancing-export",
+  "callout-manager"
 ]

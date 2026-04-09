@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/bin/pandoc",
+  "pdflatex": "/usr/bin/xelatex",
+  "outputFolder": null,
+  "extraArguments": "--citeproc --bibliography=/home/initmanfig/My-Mind/referencias.bib --csl=/home/initmanfig/My-Mind/_plantillas/ieee.csl",
+  "exportFrom": "html"
+}

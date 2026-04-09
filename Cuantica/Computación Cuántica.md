@@ -1,6 +1,6 @@
 
 ## Algebra lineal para computacion cuantica
-[[Matrices en algebra lineal]]
+[[Matrices en álgebra lineal]]
 ## Amplitudes 
 [[Amplitudes]]
 

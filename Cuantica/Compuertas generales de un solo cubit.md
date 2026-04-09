@@ -1,5 +1,5 @@
 
-Una puerta lógica general de un solo cubit funciona de manera similar, en particular se puede representar como una matriz $\large 2 x 2$ unitaria, $\large U$, [[Matrices en algebra lineal#Matriz unitaria|matrices unitarias]]. Cabe aclarar que las compuertas lógicas $\large X$(NOT) y $\large H$(Hadamard) en su forma matricial son matrices unitarias.
+Una puerta lógica general de un solo cubit funciona de manera similar, en particular se puede representar como una matriz $\large 2 x 2$ unitaria, $\large U$, [[Matrices en álgebra lineal#Matriz unitaria|matrices unitarias]]. Cabe aclarar que las compuertas lógicas $\large X$(NOT) y $\large H$(Hadamard) en su forma matricial son matrices unitarias.
 
 
 >[!QUESTION]
@@ -7,7 +7,7 @@ Una puerta lógica general de un solo cubit funciona de manera similar, en parti
 > - Como podemos comprender intuitivamente que significa que una matriz sea unitaria?
 > - Supongamos que disponemos de un dispositivo capaz de determinar con exactitud el estado de un cubit. como podria utilizarse dicho dispositivo como parte de un sistema para comunicar informacion clasica infinita, utilizando un solo cubit?
 
-## Comprobando que las compuertas X y H en su forma matricial son unitarias $\large U^{\dagger}U = I $
+## Comprobando que las compuertas X y H en su forma matricial son unitarias $\large U^{\dagger}U = I$
 
 Primero vamos a ponerla en forma matricial
 
@@ -19,7 +19,7 @@ $$\large H =
 \end{bmatrix} \right)
 $$
 
-ahora calculamos su [[Matrices en algebra lineal#Matriz transpuesta compleja o matriz adjunta|transpuesta compleja]], recordemos que $\large U^\dagger:=(U^T)^*$
+ahora calculamos su [[Matrices en álgebra lineal#Matriz transpuesta compleja o matriz adjunta|transpuesta compleja]], recordemos que $\large U^\dagger:=(U^T)^*$
 
 $$
 \large 
@@ -100,4 +100,4 @@ entonces podemos decir que la puerta lógica cuántica $\large H$ en su represen
 
 ## Que significa que una matriz sea unitaria?
 
-Significa que al multiplicarse por un vector de n-dimensiones conserva la [[Matrices en algebra lineal#Longitud de un vector|longitud]] de dicho vector.
+Significa que al multiplicarse por un vector de n-dimensiones conserva la [[Matrices en álgebra lineal#Longitud de un vector|longitud]] de dicho vector.
